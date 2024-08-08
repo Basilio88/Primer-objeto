@@ -17,6 +17,8 @@ public class FirstObjet {
         System.out.println("Tipo: "+miCarro.getTipo());
         System.out.println("Modelo: "+miCarro.getModelo());
         System.out.println("Cantidad de pasajeros: "+miCarro.getCantidadPasajeros());
+        
+        System.out.println("Hola a todos");
     }
     
 }
